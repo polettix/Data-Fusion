@@ -1,0 +1,36 @@
+# vim: tw=72 ts=2 sts=2 sw=2 et ai :
+
+=pod
+
+=encoding utf-8
+
+=head1 NAME
+
+Data::Fusion - fuse data structures together, with options
+
+=head1 VERSION
+
+This document describes Data::Fusion version 0.01.
+
+=head1 DESCRIPTION
+
+Data::Fusion allows you to fuse together two or more data structures
+(most probably hash references), with rules about what approach should
+be taken at each step.
+
+=head1 AUTHOR
+
+Flavio Poletti <polettix@cpan.org>
+
+=head1 LICENSE AND COPYRIGHT
+
+Copyright (c) 2016 by Flavio Poletti C<polettix@cpan.org>.
+
+This module is free software.  You can redistribute it and/or modify it
+under the terms of the Artistic License 2.0.
+
+This program is distributed in the hope that it will be useful, but
+without any warranty; without even the implied warranty of
+merchantability or fitness for a particular purpose.
+
+=cut
